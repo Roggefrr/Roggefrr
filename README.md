@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Rummenigge M. F. Junior</h1>
 <h3 align="center">Tenho 20 anos, moro em NATAL/RN, a melhor cidade do mundo para quem gosta de praias bonitas. Sou estudante de Análise e desenvolvimento de sistemas pelo SENAC/RN, manutenção e suporte a informática pelo IFRN, e ciências e tecnologia pela UFRN.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roggefrr" alt="roggefrr" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript, CSS, Dart**
 
 - 📫 How to reach me **rodolfo.junior.124@ufrn.edu.br**
